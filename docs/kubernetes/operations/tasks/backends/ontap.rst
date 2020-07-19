@@ -152,7 +152,7 @@ definition:
    {
        "version": 1,
        "storageDriverName": "ontap-nas",
-       "backendName": "ontap_nas_auto_export,
+       "backendName": "ontap_nas_auto_export",
        "managementLIF": "192.168.0.135",
        "svm": "svm1",
        "username": "vsadmin",
